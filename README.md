@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atxfoodie
-- 👀 I’m interested in tools and extensions for video streaming
+- 👀 I’m interested in tools and extensions for video, data and AI
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me linkedin.com/in/alanfarm
