@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atxfoodie
 - 👀 I’m interested in tools and extensions for video, data and AI
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me linkedin.com/in/alanfarm
 - ⚡ Fun fact: My first paid video production gig was at 12 years old
